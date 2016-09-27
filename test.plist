@@ -31,9 +31,9 @@ http://113.200.64.37:8001/mobile/Attachment/ydbg/ProductionManagementSystem.ipa
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>ProductionManagementSystem</string>
+<string>test</string>
 <key>title</key>
-<string>ProductionManagementSystem</string>
+<string>test</string>
 </dict>
 </dict>
 </array>
